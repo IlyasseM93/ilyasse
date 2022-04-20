@@ -4,7 +4,7 @@ metadata:
   name: ecsdemo-frontend
   labels:
     app: ecsdemo-frontend
-  namespace: default
+  namespace: projetk8s
 spec:
   replicas: 1
   selector:
